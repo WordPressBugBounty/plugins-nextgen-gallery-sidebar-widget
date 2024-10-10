@@ -1,0 +1,1 @@
+# plugins-nextgen-gallery-sidebar-widget
